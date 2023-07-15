@@ -1,9 +1,9 @@
 # BotMan
 A small animatronic desktop robot based on [YouTube Video](https://www.youtube.com/watch?v=FmKTiH5Lca4) found on the 稚晖君 channel.
 
-Although the channel provides some CAD drawings and a quick build video in Mandarin, it is incomplete or may be lost elements during the automated translations. So I will be designing and building my version from scratch (using their design as a template). There are other reasons for doing this including;
+Although the channel provides some CAD drawings and a quick build video in Mandarin, it is incomplete or some elements may have been lost during the automated translations. So I will be designing and building my version from scratch (using their design as a template). There are other reasons for doing this including;
 
-1. This is a learning experience for me. I have never designed a robot before, I have never used CAD and I have limited experience with Arduino and 3D printing.
+1. The main reason is this is a learning experience for me. I have never designed a robot before, I have never used CAD and I have limited experience with Arduino and 3D printing.
 2. The components I have available to me will be different to theirs, so most of the dimensions and design would need tweaking anyway.
 3. I don't have the facilities to produce my own circuit boards, so my design will need to be based on Arduino (or similar)
 4. I intend to swap the static base for a wheeled base to allow my bot to move around the desk. This will need incorporating into the main design.
