@@ -1,7 +1,7 @@
 # BotMan
 A small animatronic desktop robot based on [YouTube Video](https://www.youtube.com/watch?v=FmKTiH5Lca4) found on the 稚晖君 channel.
 
-![image description](BampyBampy/BotMan/images/inspiration.jpg)
+![The inspiration for this project](BotMan/BampyBampy/BotMan/images/inspiration.jpg)
 
 Although the channel provides some CAD drawings and a quick build video in Mandarin, it is incomplete or some elements may have been lost during the automated translations. So I will be designing and building my version from scratch (using their design as a template). There are other reasons for doing this including;
 
