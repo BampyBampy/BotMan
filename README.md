@@ -1,5 +1,5 @@
 # BotMan
-A small animatronic desktop robot based on [YouTube Video](https://www.youtube.com/watch?v=FmKTiH5Lca4) found on the 稚晖君 channel.
+A small animatronic desktop robot based on [YouTube Video](https://www.youtube.com/watch?v=FmKTiH5Lca4) found on the 稚晖君 channel (see image below).
 
 ![The inspiration for this project](https://raw.githubusercontent.com/BampyBampy/BotMan/main/Images/Inspiration.jpg)
 
