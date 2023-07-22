@@ -7,6 +7,8 @@ Distance = (Module x (Teeth 1 + Teeth 2)) / 2
 =(1.38 x (16 + 14)) / 2
 = 20.7mm
 
+Shoulder cogs will be 15mm horizontally apart and 14.26mm vertically apart
+
 See [https://www.youtube.com/watch?v=IhcLSx2ppUY](https://www.youtube.com/watch?v=IhcLSx2ppUY)
 
 ## How to space shafts a set distance apart
