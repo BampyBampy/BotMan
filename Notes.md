@@ -1,5 +1,5 @@
 # Notes
-
+This is just a raw dumping ground for bits and pieces I found useful. There is zero logic to the layout of this page
 ## Calculate the distance between 2 cogs
 In this example, we have two cogs, one with 16 teeth and one with 14 teeth with a module of 1.38. The formula is
 
