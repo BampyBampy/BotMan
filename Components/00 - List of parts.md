@@ -31,3 +31,7 @@ This list details all of the components used in the making of the bot. Note this
 6. **Flapper Bar Stopper (x4)**
    - See the FreeCad 3d model "Flapper Bar Stopper.FCStd"
    - Screws onto the flapper bar so the flapper lever can push on the flapper bar
+##Test rigs
+1. **Arm Test Rig (x1)**
+   - See the FreeCad 3d model "Arm Test Rig - NOT A PART OF THE FINAL ASSEMBLY.FCStd"
+   - A simple test rig to hold all the shoulder components in place for testing
