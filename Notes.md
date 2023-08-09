@@ -13,3 +13,8 @@ See [https://www.youtube.com/watch?v=IhcLSx2ppUY](https://www.youtube.com/watch?
 
 ## How to space shafts a set distance apart
 See [https://forum.freecad.org/viewtopic.php?t=53574](https://forum.freecad.org/viewtopic.php?t=53574)
+
+## Hole sizes
+Holes for servo self-tapping screws 1.4 Dia
+Holes to passthrough self-tapping screws 2.0 Dia
+Holes to accept servo cogs (4.8 Dia) is 5.1 Dia (2.55R)
