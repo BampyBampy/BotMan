@@ -15,6 +15,10 @@ See [https://www.youtube.com/watch?v=IhcLSx2ppUY](https://www.youtube.com/watch?
 See [https://forum.freecad.org/viewtopic.php?t=53574](https://forum.freecad.org/viewtopic.php?t=53574)
 
 ## Hole sizes
+**Standard meshing to use** - Based on an exported standard mesh with 0.1mm surface deviation, 10-degree angular deviation, and relative surface deviation
+
+Holes for 10mm bearing = 4.625r = 10 dia hole when printed
+
 Holes for servo self-tapping screws 1.4 Dia
 
 Holes to passthrough self-tapping screws 2.0 Dia
