@@ -17,7 +17,7 @@ See [https://forum.freecad.org/viewtopic.php?t=53574](https://forum.freecad.org/
 ## Hole sizes
 **Standard meshing to use** - Based on an exported standard mesh with 0.1mm surface deviation, 10-degree angular deviation, and relative surface deviation
 
-Holes for 10mm bearing = 4.625r = 10 dia hole when printed
+Holes for 10mm bearing = 5.2r = 10 dia hole when printed
 
 Holes to accept servo cogs (2.4r) = 4.8 dia hole when printed. Is a tight fit which is needed
 
