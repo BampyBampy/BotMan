@@ -14,12 +14,14 @@ See [https://www.youtube.com/watch?v=IhcLSx2ppUY](https://www.youtube.com/watch?
 ## How to space shafts a set distance apart
 See [https://forum.freecad.org/viewtopic.php?t=53574](https://forum.freecad.org/viewtopic.php?t=53574)
 
-## Hole sizes
+## Adjusted Dimensions for 3D Printing
 **Standard meshing to use** - Based on an exported standard mesh with 0.1mm surface deviation, 10-degree angular deviation, and relative surface deviation
 
 Holes for 10mm bearing = 5.2r = 10 dia hole when printed
 
 Holes to accept servo cogs (2.4r) = 4.8 dia hole when printed. Is a tight fit which is needed
+
+Dia of shaft passing through bearing = 5.8 Dia = 6 m dia for inside bearing
 
 Holes for servo self-tapping screws 1.4 Dia
 
