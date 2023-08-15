@@ -21,7 +21,7 @@ Holes for 10mm bearing = 5.2r = 10 dia hole when printed
 
 Holes to accept servo cogs (2.4r) = 4.8 dia hole when printed. Is a tight fit which is needed
 
-Dia of shaft passing through bearing = 5.8 Dia = 6 m dia for inside bearing
+Dia of shaft passing through bearing = 6.1 Dia = 5.9 m dia for inside bearing
 
 Holes for servo self-tapping screws 1.4 Dia
 
