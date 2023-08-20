@@ -15,7 +15,11 @@ See [https://www.youtube.com/watch?v=IhcLSx2ppUY](https://www.youtube.com/watch?
 See [https://forum.freecad.org/viewtopic.php?t=53574](https://forum.freecad.org/viewtopic.php?t=53574)
 
 ## Adjusted Dimensions for 3D Printing
-**Standard meshing to use** - Based on an exported standard mesh with 0.1mm surface deviation, 10-degree angular deviation, and relative surface deviation
+This is just a bunch of notes to hold the results of 3d printing experiments and mess-ups.
+
+**New Experiment** - Dont use supports when printing holes under 4mm in dia
+
+**Standard meshing to use for all prints** - Based on an exported standard mesh with 0.1mm surface deviation, 10-degree angular deviation, and relative surface deviation
 
 Holes for 10mm bearing = 5.2r = 10 dia hole when printed
 
