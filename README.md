@@ -5,6 +5,11 @@ To see my progress read my [diary here](Diary.md)
 
 ![The inspiration for this project](https://raw.githubusercontent.com/BampyBampy/BotMan/main/Images/Inspiration.jpg)
 
+## Update!!
+Due to a mix up with servo sizes (see blog for more information on my mistake), I will be going for a bigger bot along the lines of the $800 Moxie. It will make the engineering easier and will make it possible to squeeze more things in.
+
+![The inspiration (V2) for this project](https://raw.githubusercontent.com/BampyBampy/BotMan/main/Images/Moxie.jpg)
+
 Although the channel provides some CAD drawings and a quick build video in Mandarin, it is incomplete or some elements may have been lost during the automated translations. So I will be designing and building my version from scratch (using their design as a template). There are other reasons for doing this including;
 
 1. The main reason is this is a learning experience for me. I have never designed a robot before, I have never used CAD and I have limited experience with Arduino and 3D printing.
