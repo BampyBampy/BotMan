@@ -21,12 +21,10 @@ This is just a bunch of notes to hold the results of 3d printing experiments and
 
 **Standard meshing to use for all prints** - Based on an exported standard mesh with 0.1mm surface deviation, 10-degree angular deviation, and relative surface deviation
 
-Holes for 10mm bearing = 5.2r = 10 dia hole when printed
+**10mm Bearing** - Holes for 10mm bearing = 5.2mm(r) = 10mm dia hole when printed. Dia of bearing inner = 5.8mm dia = 5.9mm dia when printed (try 5.9 next to give slightly bigger)
 
-Holes to accept servo cogs (2.4r) = 4.8 dia hole when printed. Is a tight fit which is needed
+**15mm Bearing** - Holes for 15mm bearing = 7.65mm(r) = 15 mm dia hole when printed. Dia of bearing inner = 4.95mm(r) = 9.9mm dia when printed
 
-Dia of shaft passing through bearing = 5.8 Dia = 5.9 m dia for inside bearing (try 5.9 next)
+**Servo Cog** - Holes to accept servo cogs (2.4r) = 4.8 dia hole when printed. Is a tight fit which is needed. Holes for servo self-tapping screws 1.4 Dia
 
-Holes for servo self-tapping screws 1.4 Dia
-
-Holes to passthrough self-tapping screws 2.0 Dia
+**M2 Screws** Holes to pass through, print = 1mm(r), drill = 2mm dia. Holes to tap, print 0.7mm(r), drill 1.2mm dia.
